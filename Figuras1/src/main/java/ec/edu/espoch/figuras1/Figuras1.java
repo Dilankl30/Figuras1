@@ -11,6 +11,6 @@ package ec.edu.espoch.figuras1;
 public class Figuras1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("ocomo estas veronica y dilan");
     }
 }
