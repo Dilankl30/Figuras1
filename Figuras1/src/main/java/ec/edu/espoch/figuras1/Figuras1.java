@@ -14,3 +14,4 @@ public class Figuras1 {
         System.out.println("ocomo estas veronica y dilan");
     }
 }
+
