@@ -10,8 +10,13 @@ package ec.edu.espoch.figuras1;
 public class Figuras1 {
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("Hello veronica");
         System.out.println("hola");
         System.out.println("holas ");
+=======
+        System.out.println("ocomo estas veronica y dilan hola amigo como estas");
+>>>>>>> dev-Vero
     }
 }
+
